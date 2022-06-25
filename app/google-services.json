@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "140134378802",
+    "project_id": "database-aquario",
+    "storage_bucket": "database-aquario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140134378802:android:50994c079e7dfa1ca7fb2b",
+        "android_client_info": {
+          "package_name": "com.ufam.projetoaquario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140134378802-sj9mdmleu91o12romt703ej9d4vlu0tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ufam.projetoaquario",
+            "certificate_hash": "01d4b821fddc900ef5712e34e319647fd05d01a6"
+          }
+        },
+        {
+          "client_id": "140134378802-t8t5j0c4msqoj57v9uoiu4o1gr66k8nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFbdKUebBNQV-zQvJlGkfDlOH23nB5bv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140134378802-t8t5j0c4msqoj57v9uoiu4o1gr66k8nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
